@@ -1,0 +1,64 @@
+body{
+	margin: 0px;
+	padding: 20px;
+
+}
+
+.whole{
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	margin: 0 auto;
+	min-width: 500px;
+}
+
+.kuang1{
+	float: left;
+	display: inline-block;
+	padding: 20px;
+	background-color: white;
+	width: 200px;
+	border: 1px solid #999;
+
+}
+
+.name{
+	float: right;
+	display: inline-block;
+	width:77px;
+	text-align: center;
+}
+
+.kuang2{
+	padding: 20px;
+	background-color: white;
+	border: 1px solid #999;
+	margin-left:250px;
+	margin-right: 170px;
+	word-wrap:break-word;
+}
+
+.kuang3{
+	float: right;
+	padding:20px;
+	background-color: white;
+	width: 120px;
+	border: 1px solid #999;
+
+}
+.kuang3-2{
+	margin-top:20px;
+	padding: 20px;
+	background-color: #eee;
+	width: 80px;
+	height: 80px;
+	border: 1px solid #999;
+}
+.kuang3-1{
+	display: inline-block;
+	padding: 20px;
+	background-color: #eee;
+	width: 80px;
+	height: 80px;
+	border: 1px solid #999;
+}
